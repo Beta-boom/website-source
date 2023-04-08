@@ -1,7 +1,7 @@
 baseURL: "https://josepvalencia.eu.org"
 languageCode: en-us
 title: Josep Valencia
-
+relativeURLs: true
 theme: "PaperMod"
 
 minify:
