@@ -1,0 +1,7 @@
+---
+title: "Usar un móvil sin Google para reconectar."
+date: 2023-04-10T22:41:55+02:00
+draft: true
+---
+
+Siempre he sido muy reacio de dejar de usar servicios privativos. Hay algunos que funcionan mejor que sus alternativas libres o, simplemente, se ven mejor (parece que no es importante, pero hace mucho). A veces el tema es simplemente cambiar y reaprender lo que sabemos para hacer lo que normalmente hacemos con un programa distinto. El hecho es que siempre me ha costado y siempre he querido tener los servicios de Google en mi móvil por el "por si acaso" o el "y si...". Cuando descubrí microG, me quedé enamorado. Para los que no lo sepan, este proyecto de código abierto viene a reemplazar los servicios de Google haciendo que las aplicaciones que dependen de ellos puedan llamar a las funciones y métodos pertinentes y obtengan una respuesta, aunque sea en blanco, para así evitar que dejen de funcionar. En ese momento, quise instalar microG y tuve la tentación de hacerlo, pero estaba en Lineage con las GApps y me daba mucha pereza formatear para cambiar. Luego cambié de ROM unas cuantas veces, habiendo olvidado el reemplazo, hasta que me vino la idea de tener un móvil minimalista. Estando con mi OnePlus 6, el que era mi móvil secundario, en riceDroid 10.2 con casi ninguna app instalada y con los servicios de la gran G desactivados, decidí probar LineageOS for microG. 
