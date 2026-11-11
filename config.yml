@@ -1,6 +1,6 @@
 baseURL: "https://josepvalencia.eu.org/"
-languageCode: es
-defaultContentLanguage: es
+languageCode: ca
+defaultContentLanguage: ca
 title: Josep Valencia
 theme: "PaperMod"
 paginate: 5
