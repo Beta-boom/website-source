@@ -1,6 +1,7 @@
 baseURL: "https://josepvalencia.eu.org/"
 languageCode: ca
 defaultContentLanguage: ca
+disableLanguages: [es]
 title: Josep Valencia
 theme: "PaperMod"
 paginate: 5
@@ -79,17 +80,17 @@ languages:
       # home-info mode
       homeInfoParams:
         Title: "Hey, it's Josep!"
-        Content: I'm a random guy on the internet who likes tech & privacy.
+        Content: I'm a random guy. Dunno what you are doing here. Welcome, i guess...
 
       socialIcons:
-        - name: twitter
-          url: "https://twitter.com/josepvalencia64"
+        #- name: twitter
+        #  url: "https://twitter.com/josepvalencia64"
         - name: instagram
           url: "https://instagram.com/josepvalencia64"
         - name: github
           url: "https://github.com/Beta-boom"
-        - name: discord
-          url: "COMING SOON!"
+        #- name: discord
+        #  url: "COMING SOON!"
 
       cover:
         hidden: true # hide everywhere but not in structured data
@@ -315,17 +316,17 @@ languages:
       # home-info mode
       homeInfoParams:
         Title: "Hola, som en Josep!"
-        Content: Som una persona random a qui li agrada la tecnologia y la privacitat.
+        Content: Som una persona random. No sé què fas aquí, però benvingut, supòs...
 
       socialIcons:
-        - name: twitter
-          url: "https://twitter.com/josepvalencia64"
+        #- name: twitter
+        #  url: "https://twitter.com/josepvalencia64"
         - name: instagram
           url: "https://instagram.com/josepvalencia64"
         - name: github
           url: "https://github.com/Beta-boom"
-        - name: discord
-          url: "COMING SOON!"
+        #- name: discord
+        #  url: "COMING SOON!"
 
       cover:
         hidden: true # hide everywhere but not in structured data
